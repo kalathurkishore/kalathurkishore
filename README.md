@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Kalathur Kishore!
+# 👋 Hi, I'm Kalathur Chenchu Kishore Kumar!
 
-🚀 I'm a passionate **AI/ML Engineer** with a strong foundation in **Machine Learning**, **Deep Learning**, **Computer Vision**, **Gen AI** and modern web technologies.
+🚀 I'm a passionate **AI/ML Engineer** with a strong foundation in **Machine Learning**, **Deep Learning**, **Computer Vision**, **Generative AI**, and modern web technologies.  
+I am an **IIT Jodhpur alumnus**, focused on building **production-ready AI systems** that bridge research and real-world deployment.
+
+🔗 **Portfolio:** https://kalathurkishore.github.io/kishore-portfolio/  
+🔗 **LinkedIn:** https://www.linkedin.com/in/kishorekumarkalathur/
+
+---
 
 ## 💼 About Me
 
@@ -9,6 +15,17 @@
 - 🌱 Exploring **Diffusion Models**, **LLMs**, and the intersection of **vision & language**
 - ✍️ I enjoy writing **technical content** and contributing to **open-source projects**
 - 🧠 Curious, collaborative, and always eager to learn something new
+
+---
+
+## 🧠 Core Expertise
+- Computer Vision & Video Analytics  
+- Generative AI & Multimodal Systems  
+- Deep Learning (CNNs, GANs, Diffusion Models)  
+- LLMs, Agentic Workflows & RAG Pipelines  
+- Edge AI, MLOps & Model Deployment  
+
+---
 
 ## 🔧 Tech Stack
 
@@ -20,6 +37,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-3C3C3C?style=flat&logo=prompt&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-00A0A0?style=flat&logo=langchain&logoColor=white)
+
+---
 
 ## 🔧 AI/ML Tech Stack
 
@@ -60,17 +79,20 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+---
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
+---
+
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/kishorekumarkalathur/)
-- [Portfolio](https://kalathurkishore.github.io/resume/)
-- 📧 kumarkishorekalathur@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/kishorekumarkalathur/
+- 🌐 Portfolio: https://kalathurkishore.github.io/kishore-portfolio/
+- 📧 Email: kumarkishorekalathur@gmail.com
 
 ---
 
