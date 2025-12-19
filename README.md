@@ -3,7 +3,7 @@
 🚀 I'm a passionate **AI/ML Engineer** with a strong foundation in **Machine Learning**, **Deep Learning**, **Computer Vision**, **Generative AI**, and modern web technologies. I am an **IIT Jodhpur alumnus**, focused on building **production-ready AI systems** that bridge research and real-world deployment.
 
 🔗 **Portfolio:** https://kalathurkishore.github.io/kishore-portfolio/  
-🔗 **LinkedIn:** https://www.linkedin.com/in/kishorekumarkalathur/
+🔗 **LinkedIn:** https://in.linkedin.com/in/kalathurchenchukishorekumar
 
 ---
 
